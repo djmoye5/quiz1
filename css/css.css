@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  margin: 25vw 5vh 25vw 5vh;
+  border: 1px solid black;
+  border-top: thick solid black;
+  border-bottom:  dotted black;
+  display: block;
+  min-width: 19vw;
+  max-width: 19vw;
+  min-height: 85vh;
+  max-height:85vh;
+}
+
+h2{
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+span{
+  font-family: sans-serif;
+  font-weight: bolder;
+  display: inline-block;
+  color: royalblue;
+}
+
+h3{
+  font-size: 16px;
+  padding: 0;
+  border-bottom: dotted black;
+}
+
+p{
+  margin:0;
+  padding: 0;
+}
